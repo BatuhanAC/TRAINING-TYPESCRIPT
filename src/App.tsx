@@ -27,7 +27,7 @@ import { Text } from './components/polymorphic/Text';
 
 function App() {
   const personName = {
-    first: 'Bugra',
+    first: 'BUĞRA',
     last: 'YILDIZ'
   }
 
